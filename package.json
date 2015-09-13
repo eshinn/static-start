@@ -1,0 +1,33 @@
+{
+  "name": "static-start",
+  "version": "0.1.0",
+  "description": "Boiler-plate starter for static website development.",
+  "scripts": {
+    "test": "grunt qa",
+    "start": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshinn/static-start.git"
+  },
+  "keywords": [
+    "boiler-plate",
+    "static",
+    "web",
+    "development",
+    "grunt",
+    "jade",
+    "coffeescript",
+    "stylus"
+  ],
+  "author": "Eric R. Shinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshinn/static-start/issues"
+  },
+  "homepage": "https://github.com/eshinn/static-start#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}
